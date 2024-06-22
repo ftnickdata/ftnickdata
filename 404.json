@@ -1,3 +1,4 @@
 {
-    "nah": true
+    "message": "Requested asset not found.",
+    "error": "404"
 }
